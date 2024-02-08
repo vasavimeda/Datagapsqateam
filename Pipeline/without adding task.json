@@ -1,0 +1,1 @@
+{"pipelineKey":"666adbdc-9269-47b8-848a-8d4599c3d966","name":"without adding task","description":"","definition":"{\"inputOptions\":[{\"name\":\"rf\",\"inputType\":\"String\",\"label\":\"rr\",\"id\":\"08e4e56ba2464efea54f1f32879eb63e:input:1\",\"type\":\"string\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

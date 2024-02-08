@@ -1,0 +1,1 @@
+{"pipelineKey":"992a7b15-4ed8-496a-b0f0-e71b882c61cb","name":"Pipeline_4538numeric","description":null,"definition":"{\"workerLimit\":\"\",\"inputOptions\":[{\"name\":\"int\",\"inputType\":\"Numeric\",\"label\":50,\"id\":\"a8fbd4bcbba949899e5847c7a6cc27c0:input:1\",\"type\":\"string\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

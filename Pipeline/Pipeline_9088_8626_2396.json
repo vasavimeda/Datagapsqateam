@@ -1,0 +1,1 @@
+{"pipelineKey":"1363a058-98ab-4e7b-aec0-2ba70101d5c2","name":"Pipeline_9088_8626_2396","description":null,"definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"266e5362-61b3-4eae-93fb-41eea5fa57c1:input:1\",\"type\":\"Engine\",\"engineName\":\"142livy142\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}

@@ -1,0 +1,1 @@
+{"pipelineKey":"f766df09-048c-407d-9b4d-495c5426e7e5","name":"Pipeline_247","description":"","definition":"{\"inputOptions\":[{\"name\":\"pipelineDefaultEngine\",\"inputType\":\"Engine\",\"id\":\"e7ad8aca-ae2c-4b70-8cbb-94c3751d7237:input:1\",\"type\":\"Engine\",\"engineName\":\"unitycatalogcluster\",\"required\":true}],\"webhooks\":{},\"outputOptions\":[],\"tasks\":[]}"}
